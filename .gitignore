@@ -12,6 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
+
 *.DS_Store
 .DS_Store
 
@@ -22,5 +23,7 @@ bin-release/
 
 # Powerpoint Presentations
 *.pptx
+
 *.ppt
 *.docx
+
