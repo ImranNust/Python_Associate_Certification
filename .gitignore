@@ -13,6 +13,8 @@ bin-release/
 *.ipa
 *.apk
 *.DS_Store
+.DS_Store
+
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
@@ -21,3 +23,4 @@ bin-release/
 # Powerpoint Presentations
 *.pptx
 *.ppt
+*.docs
