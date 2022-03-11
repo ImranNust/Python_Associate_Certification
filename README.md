@@ -23,4 +23,17 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 
 
 
+## Module 3: Object Oriented Programming
+
+1. Part 1: [The Foundations of OOP (classes, objects, attributes)]()
+2. Part 2: [Stack: the procedural vs OOP approach]()
+3. Part 3: [Properties (instance variables, class variables, attributes)]()
+4. part 4: []()
+5. Part 5: []()
+6. Part 6: []()
+7. Part 7: []()
+8. Part 8: []()
+9. Part 
+
+
 
