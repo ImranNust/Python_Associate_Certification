@@ -13,8 +13,10 @@ bin-release/
 *.ipa
 *.apk
 
-*.DS_Store
 .DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
@@ -26,4 +28,5 @@ bin-release/
 
 *.ppt
 *.docx
+**/.DS_Store
 
