@@ -34,4 +34,11 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 6. Part 5: [functions, methods, class hierarchies, polymorphism, composition, single vs multiple inheritance](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-5.pdf)
 
 
+## Module 4: Miscellaneous
+
+1. Part 1: [Generators, Iterators, and Closures](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module4/Module4_PCAP-31-03_Part-1.pdf)
+2. Part 2: [Accessing files from Python Code](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module4/Module4_PCAP-31-03_Part-2.pdf)
+3. Part 3: [The os module](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module4/Module4_PCAP-31-03_Part-3.pdf)
+4. Part 4: [The datetime module](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module4/Module4_PCAP-31-03_Part-4.pdf)
+
 
