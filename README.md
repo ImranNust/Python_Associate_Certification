@@ -25,15 +25,13 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 
 ## Module 3: Object Oriented Programming
 
-1. Part 1: [The Foundations of OOP (classes, objects, attributes)]()
-2. Part 2: [Stack: the procedural vs OOP approach]()
-3. Part 3: [Properties (instance variables, class variables, attributes)]()
-4. part 4: []()
-5. Part 5: []()
-6. Part 6: []()
-7. Part 7: []()
-8. Part 8: []()
-9. Part 
+1. Part 1: [The Foundations of OOP (classes, objects, attributes)](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-1.pdf)
+2. Part 2: [Stack: the procedural vs OOP approach](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-2.pdf)
+3. Part 2 (Lab): [Lab for Part 2](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/LabForModule3Part2.pdf)
+3. Part 3: [Properties (instance variables, class variables, attributes)](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-3.pdf)
+4. part 4: [Methods (class and object methods, constructors, parameters, properties](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-4.pdf)
+5. Part 4 (Lab): [Lab for Part 4](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/LabForModule3Part4.pdf)
+6. Part 5: [functions, methods, class hierarchies, polymorphism, composition, single vs multiple inheritance](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-5.pdf)
 
 
 
