@@ -35,6 +35,8 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 5. Part 4 (Lab): [Lab for Part 4](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/LabForModule3Part4.pdf)
 6. Part 5: [functions, methods, class hierarchies, polymorphism, composition, single vs multiple inheritance](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module3/Module3_PCAP-31-03_Part-5.pdf)
 
+<hr>
+
 
 ## Module 4: Miscellaneous
 
