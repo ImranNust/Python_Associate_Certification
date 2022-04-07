@@ -11,6 +11,7 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 4. Part 3: [Creating Your Own Modules and Packages in Python](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module1/Module1_PCAP-31-03_Modules-and-Packages_Part-3.pdf)
 5. Part 4: [Python Package Installer (PIP)](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module1/Module1_PCAP-31-03_Modules-and-Packages_Part-4.pdf)
 
+<hr>
 
 ## Module 2: Strings, Lists, and Exceptions in Python
 
