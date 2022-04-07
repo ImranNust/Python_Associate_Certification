@@ -1,6 +1,7 @@
 # Python Associate Certification
 This Repository Contains Lecture Slides for Python Associate Certification (PCAP-31-03)
 
+<hr>
 
 ## Module 1: Modules, Packages and PIP
 
