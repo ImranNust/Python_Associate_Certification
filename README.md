@@ -23,7 +23,7 @@ This Repository Contains Lecture Slides for Python Associate Certification (PCAP
 6. Part 6: [Exceptions](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module2/Module2_PCAP-31-03_Part-6.pdf)
 7. Part 7: [Exceptions](https://github.com/ImranNust/Python_Associate_Certification/blob/main/Module2/Module2_PCAP-31-03_Part-7.pdf)
 
-
+<hr>
 
 ## Module 3: Object Oriented Programming
 
